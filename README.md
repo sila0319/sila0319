@@ -4,7 +4,7 @@
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sila0319)](https://solved.ac/sila0319)
-<img src="http://mazandi.herokuapp.com/api?handle=&theme=warm"/>
+<img src="http://mazandi.herokuapp.com/api?handle=sila0319&theme=warm"/>
 
 
 
